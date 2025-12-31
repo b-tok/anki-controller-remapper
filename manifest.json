@@ -1,0 +1,13 @@
+{
+  "package": "8BitDo Controller Remapper",
+  "name": "Controller Remapper",
+  "doc": "https://github.com/b-tok/anki-controller-remapper",
+  "homepage": "https://github.com/b-tok/anki-controller-remapper",
+  "conflicts": [],
+  "targets": [
+    "anki21"
+  ],
+  "minimumAnkiVersion": "2300000000000",
+  "humanVersion": "0.1.0",
+  "version": "1"
+}

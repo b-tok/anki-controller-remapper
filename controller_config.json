@@ -1,0 +1,14 @@
+{
+  "A": " ",
+  "B": "4",
+  "X": "2",
+  "Y": "1",
+  "LEFT": "Left",
+  "RIGHT": "Right",
+  "UP": "Up",
+  "DOWN": "Down",
+  "LEFT_SHOULDER": "s",
+  "RIGHT_SHOULDER": "d",
+  "START": "Ctrl+z",
+  "SELECT": "Ctrl+y"
+}

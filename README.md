@@ -48,15 +48,14 @@ If you're using the Flatpak version of Anki, additional setup is required:
 | Controller Button | Keyboard Key |
 |------------------|--------------|
 | A | Space |
-| B | Enter/Return |
-| X | z |
-| Y | x |
+| B | 4 |
+| X | 2 |
+| Y | 1 |
 | Up/Down/Left/Right | Arrow keys |
-| Left Shoulder | Ctrl+Shift+z (Undo Redo) |
-| Right Shoulder | Ctrl+z (Undo) |
-| Start | Enter/Return |
-| Select | Backspace |
-| Left/Right Trigger | Ctrl+Shift+z / Ctrl+y |
+| Left Shoulder | s |
+| Right Shoulder | d |
+| Start | Ctrl+z (Undo) |
+| Select | Ctrl+y (Redo) |
 
 ## Supported Key Combinations
 
