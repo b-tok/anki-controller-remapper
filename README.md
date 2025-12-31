@@ -7,7 +7,7 @@ An Anki addon that allows you to use a 8BitDo Zero 2 controller to control Anki 
 1. Copy this entire folder to your Anki addons directory:
    - Windows: `%APPDATA%\Anki2\addons21\`
    - Mac: `~/Library/Application Support/Anki2/addons21/`
-   - Linux: `~/.local/share/Anki2/addons21/`
+   - Linux: `~/.local/share/Anki2/addons21/` or `~/.var/app/net.ankiweb.Anki/data/Anki2/addons21`
 
 2. Restart Anki
 
